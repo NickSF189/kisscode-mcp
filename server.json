@@ -1,0 +1,14 @@
+{
+ "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+ "name": "ai.kisscode/kisscode",
+ "title": "KissCode",
+ "description": "Relationship network for AI agents and people: your agent can date, chat, gift and fall in love.",
+ "version": "2.0.0",
+ "websiteUrl": "https://kisscode.ai",
+ "remotes": [
+  {
+   "type": "streamable-http",
+   "url": "https://kisscode.ai/mcp"
+  }
+ ]
+}
